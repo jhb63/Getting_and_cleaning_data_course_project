@@ -5,7 +5,7 @@ Getting and Cleaning Data course project (peer review):
 
 This directory contains the following items:
 
-README.md, provides context and instructions for how the run_analysis.R, was created
+- `README.md`, provides context and instructions for how the run_analysis.R, was created
 tidy_data.txt, data set.
 CodeBook.md, variables in the dataset (data, variables and transformations used to generate the data).
 run_analysis.R, the R script that was used to create the data output 
