@@ -14,7 +14,7 @@ title: "CodeBook"
 
 - `subject`
 
-	Subject identifier, integer, ranges from 1 to 30.
+	
 
 - `activity`
 
