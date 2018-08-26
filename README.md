@@ -13,12 +13,16 @@ This directory contains the following items:
 Downloads and unzips source data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 Loads data.
 
--1.Merge the training and the test sets to create one data table.
--2.Extract only the measurements on the mean and standard deviation for each measurement.
--3.Use descriptive activity names to name the activities in the data set.
--4.Appropriately label the data set with descriptive variable names.
--5.Create a second, independent tidy set with the average of each variable for each activity and each subject.
-
+>1.Merge the training and the test sets to create one data table.
+>
+>2.Extract only the measurements on the mean and standard deviation for each measurement.
+>
+>3.Use descriptive activity names to name the activities in the data set.
+>
+>4.Appropriately label the data set with descriptive variable names.
+>
+>5.Create a second, independent tidy set with the average of each variable for each activity and each subject.
+>
 Write the data set to the tidy_data.txt file.
 
 
